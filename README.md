@@ -34,7 +34,7 @@ Yotube-clone , Added search filter
  <h3 align="center">Want to see live preview »</h3>
 <p align="center"> 
     <br />
-    <a target="blank" href="yotube-clone-q6ec.vercel.app">Deployed Link</a>    
+    <a target="blank" href="https://yotube-clone-q6ec.vercel.app/">Deployed Link</a>    
     
  </p>
   
