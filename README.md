@@ -42,7 +42,7 @@ Yotube-clone , Added search filter
   
 <h2>Contact</h2>
 
-If you want to contact me, you can reach me through below handles.
+If you want to contact me, you can reach me through below handle.
 
 [![linkedin](https://img.shields.io/badge/Manish-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-reddy-76063a222/)
 
